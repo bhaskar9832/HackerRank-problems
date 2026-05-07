@@ -44,7 +44,7 @@ Unlike many repositories that only provide code, this repository focuses on the 
 - 📖 Beginner-friendly logic breakdown  
 - ⚡ Optimized and clean code structure  
 - 📊 Complexity analysis  
-- 🎯 Coding interview preparation  
+
 
 ---
 
